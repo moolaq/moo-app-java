@@ -1,7 +1,7 @@
 /**
  * 
  */
-package mootx;
+package mooPkg;
 
 import java.util.Properties;
 
@@ -10,7 +10,7 @@ import java.util.Properties;
  * @author mOOlaq
  *
  */
-public class MooApp implements mootx.interfaces.MooAppInterface {
+public class MooApp implements mooPkg.interfaces.MooAppInterface {
 	//private MooApp mooApp;
 	private MooLogger mooLogger = MooLogger.getInstance();
 	private MooConfig mooConfig = MooConfig.getInstance();
