@@ -9,7 +9,7 @@ package mooPkg;
  */
 public class MooRunMain {
 
-	private static MooApp app;
+	private static mooPkg.application.MooApp app;
 	/**
 	 * @param args Commandline parameters - not used
 	 */
